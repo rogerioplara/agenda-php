@@ -36,6 +36,4 @@ A eliminação de todos os registos deve ser objeto de confirmação.
 
 Esta não é uma aplicação que está pronta para produção.
 
-Foi desenvolvida junto do professor no andamento do curso, com a finalidade de aplicar os conceitos estudados e consolidar o conhecimento adquirido.
-
 Faltam ainda vários mecanismos de segurança e gestão de fluxo, definição de rotas, otimizações de código e organização do projeto.
