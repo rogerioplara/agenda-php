@@ -1,8 +1,6 @@
 # PHP PDO - Agenda
 
-Desenvolver uma aplicação PHP com acesso a base de dados MySQL que permite efetuar a gestão de  contatos com base em NOME e TELEFONE.
-
-### Normas obrigatórias
+### Requisitos
 
 - Os nomes estão limitados a um mínimo de 3 e máximo 50 letras.
 - Os telefones estão limitados e um mínimo de 3 e máximo de 12 letras.
@@ -12,7 +10,7 @@ Desenvolver uma aplicação PHP com acesso a base de dados MySQL que permite efe
 - Por razões de operacionalidade e teste, o sistema deverá ter uma funcionalidade para limpeza completa dos registos existentes.
 - Deve existir um link para download de toda a informação em formato CSV.
 
-### Descrição da aplicação
+### Regras de negócio
 
 A página inicial deverá apresentar um campo de pesquisa do lado esquerdo e do lado direito um botão para adição de novos registos.
 
